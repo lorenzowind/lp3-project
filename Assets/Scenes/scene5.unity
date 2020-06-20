@@ -676,7 +676,7 @@ GameObject:
   - component: {fileID: 34342677}
   - component: {fileID: 34342676}
   m_Layer: 0
-  m_Name: Colision01
+  m_Name: Tilemap 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7658,7 +7658,7 @@ GameObject:
   - component: {fileID: 230973750}
   - component: {fileID: 230973749}
   m_Layer: 0
-  m_Name: Colision03
+  m_Name: Tilemap 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17545,7 +17545,7 @@ GameObject:
   - component: {fileID: 1138108588}
   - component: {fileID: 1138108587}
   m_Layer: 0
-  m_Name: Colision02
+  m_Name: Tilemap 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
